@@ -64,6 +64,9 @@ Connect Arduino UNO via USB.
 
 Run Python script:
 python sss.py
+
+<img width="1536" height="1024" alt="Arduino Uno with Drowsiness Detection System" src="https://github.com/user-attachments/assets/76980e48-a5c9-43ef-80ed-2286acc8f7c5" />
+
 📊 Workflow
 
 Camera Input → Captures driver’s face.
